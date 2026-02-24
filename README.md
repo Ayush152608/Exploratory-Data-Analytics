@@ -71,14 +71,11 @@ The analysis outputs are uploaded in this repository as screenshots showing char
 
 ```
 Data-Analytics-Project/
-│── SampleSuperstore.csv
-│── screenshots/
-│   ├── sales_analysis.png
-│   ├── profit_analysis.png
-│   ├── region_analysis.png
-│   └── category_analysis.png
-│── README.md
-```
+Exploratory-Data-Analytics/
+   README.md
+   Screenshots/
+   assettypes/
+   assets/
 
 ---
 

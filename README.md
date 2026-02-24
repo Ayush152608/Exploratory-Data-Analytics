@@ -93,7 +93,7 @@ Data-Analytics-Project/
 
 ## 👤 Author
 
-**Disha Pandit**
+**AYUSH KUMAR **
 Aspiring Data Analyst
 
 ---
